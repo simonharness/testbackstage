@@ -6,6 +6,7 @@ metadata:
   annotations:
        harness.io/pipelines: |
          labelA:https://app.harness.io/ng/account/l7HREAyVTnyfUsfUtPZUow/cd/orgs/default/projects/david_migration_demo/pipelines/test_wf_pipeline/executions?storeType=INLINE
+         harness.io/project-url:https://app.harness.io/ng/account/VRuJ8-dqQH6QZgAtoBr66g/home/orgs/default/projects/PRCHECKS/details
   tags:
     - java
   
