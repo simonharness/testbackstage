@@ -5,7 +5,7 @@ metadata:
   description: pipeline build and deploy
   annotations:
        harness.io/pipelines: |
-         labelA: https://app.harness.io/ng/account/VRuJ8-dqQH6QZgAtoBr66g/cd/orgs/default/projects/TESTINTELLIGENCEMASTER/pipelines/test/pipeline-studio/?storeType=INLINE
+         labelA:https://app.harness.io/ng/account/l7HREAyVTnyfUsfUtPZUow/cd/orgs/default/projects/david_migration_demo/pipelines/test_wf_pipeline/executions?storeType=INLINE
   tags:
     - java
   
