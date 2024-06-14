@@ -10,6 +10,9 @@ metadata:
        harness.io/project-url: |
           workspaceA: https://qa.harness.io/ng/account/25NKDX79QPC-YTyninmxRQ/module/iacm/orgs/default/projects/Testim/workspaces/beta1/resources |
           workspaceB: https://qa.harness.io/ng/account/25NKDX79QPC-YTyninmxRQ/module/iacm/orgs/default/projects/william/workspaces/cost/resources
+       harness.io/workspace-url: |
+          workspaceA: https://qa.harness.io/ng/account/25NKDX79QPC-YTyninmxRQ/module/iacm/orgs/default/projects/Testim/workspaces/beta1/resources |
+          workspaceB: https://qa.harness.io/ng/account/25NKDX79QPC-YTyninmxRQ/module/iacm/orgs/default/projects/william/workspaces/cost/resources   
   tags:
     - java
   
